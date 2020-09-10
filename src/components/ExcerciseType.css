@@ -1,0 +1,30 @@
+.ExcerciseType-container{
+    margin-bottom: 5px;
+    background-color: #f8f9fa;
+}
+
+.ExcerciseType-container-header{
+    padding : 5px 5px;
+    margin : 0px;
+}
+
+.ExcerciseType-container-header-title{
+    display : inline-block;
+    font-weight: 500;
+    font-size : 18px;
+}
+
+.ExcerciseType-container-header-weight{
+    float : right;
+    margin-top : 4px;
+    font-weight: 400;
+    font-size : 16px;
+    text-decoration-line: underline;
+    text-underline-position: under;
+}
+
+.excerciseType-container-body {
+    padding : 5px 5px;
+    margin : 0px;
+
+}

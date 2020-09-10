@@ -1,0 +1,30 @@
+.excercise-button{
+    width:50px;
+    height: 50px;
+    display : inline-block;
+    margin : 0px 25px;
+    border-radius: 50%;
+    background-color:#ced4da;
+    cursor: pointer;
+}
+
+.excercise-button-number{
+    margin-top: 27%;
+    margin-left: 38%;
+    display: inline-block;
+    font-size:18px;
+    font-weight :600;
+    color : #f8f9fa;
+    cursor: pointer;
+    min-height: 21px;
+}
+
+.color-red{
+    background-color : red;
+}
+
+.color-grey{
+    background-color : #adb5bd;
+}
+
+.no-drag {-ms-user-select: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select:none;}
